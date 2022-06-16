@@ -1,2 +1,2 @@
 # grid-recipes
-Standard layout templates using CSS Grid.
+Standard layouts using CSS Grid.
